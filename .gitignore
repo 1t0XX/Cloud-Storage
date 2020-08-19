@@ -1,0 +1,4 @@
+# Project exclude paths
+/CloudClient/target/
+/CloudClientServer/target/
+/CloudServer/target/
